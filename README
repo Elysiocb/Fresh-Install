@@ -1,0 +1,15 @@
+#############################
+# PROTOTYPE 0.1
+# Instala tudo de apps.json usando winget, e avisa quando terminar.
+#############################
+
+#FEATURES TODO
+
+#inicia e pega a lingua nativa do usuario, para instalar os apps na lingua correta
+
+#interface pede pro usuario criar uma lista de apps para instalar a partir de um browser de ids.
+
+#pergunta configurações de instalação adicionais (menu iniciar, barra de tarefas, etc.)
+
+#instala os apps em ordem, avisando o progresso.
+#############################
